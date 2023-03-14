@@ -1,0 +1,8 @@
+"Teeth"
+{
+	$basetexture models\turbo\cortana\cortana_base
+	$model 1
+	$nocull 1
+	$clientshader "MouthShader"
+	$halflambert 1
+}

@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	$basetexture models\turbo\cortana\cortana_base
+	$bumpmap models\turbo\cortana\cortana_base_n
+	$halflambert 1
+}

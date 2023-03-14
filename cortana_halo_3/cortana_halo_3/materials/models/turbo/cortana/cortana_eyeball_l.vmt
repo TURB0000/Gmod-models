@@ -1,0 +1,5 @@
+"eyes"
+{
+	$iris models\turbo\cortana\cortana_pupil
+	$halflambert 1
+}

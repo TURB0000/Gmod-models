@@ -1,0 +1,2 @@
+gmpublish update -addon "C:\Users\Turbo\Documents\123\mymodel\cortana_halo_3.gma" -id "2938538995" -icon "C:\Users\Turbo\Downloads\ico.jpg" -changes "NPC added"
+$definebone "breast_jiggle" "ValveBiped.Bip01_Spine2" 2.589222 1.883678 -0.001252 -89.975403 -82.891235 0.000000 0.000000 0.000000 0.000000 0.000000 -0.000000 0.000001

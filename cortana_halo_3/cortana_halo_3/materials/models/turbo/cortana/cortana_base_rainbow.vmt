@@ -1,0 +1,39 @@
+"VertexLitGeneric"
+{
+	$basetexture models\turbo\cortana\cortana_base_color
+	$bumpmap models\turbo\cortana\cortana_base_n
+	$halflambert 1
+
+	$color2 [0 0 0]
+
+	$blendtintbybasealpha 1
+	$blendtintcoloroverbase 0.4
+
+	Proxies
+	{
+		sine
+		{
+			sineperiod 6.0
+			sinemin 0
+			sinemax 1
+			timeoffset 0.0
+			resultvar "$color2[0]"
+		}
+		sine
+		{
+			sineperiod 6.0
+			sinemin 0
+			sinemax 1
+			timeoffset	2.0
+			resultvar "$color2[1]"
+		}
+		sine
+		{
+			sineperiod 6.0
+			sinemin 0
+			sinemax 1
+			timeoffset	4.0
+			resultvar "$color2[2]"
+		}
+	}
+}

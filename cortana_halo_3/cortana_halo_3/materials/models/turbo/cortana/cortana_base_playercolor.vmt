@@ -1,0 +1,18 @@
+"VertexLitGeneric"
+{
+	$basetexture models\turbo\cortana\cortana_base_color
+	$bumpmap models\turbo\cortana\cortana_base_n
+	$halflambert 1
+
+	$blendtintbybasealpha 1
+	$blendtintcoloroverbase 0.5
+
+	Proxies
+	{
+		PlayerColor
+		{
+			resultVar $color2
+			default 1 0 0
+		}
+	}
+}
