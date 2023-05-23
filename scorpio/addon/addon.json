@@ -1,0 +1,11 @@
+{
+	"title"		:	"Scorpio SWTOR",
+	"type"		:	"model",
+	"tags"		:	[ "roleplay", "fun" ],
+	"ignore"	:
+	[
+		"*.psd",
+		"*.vcproj",
+		"*.svn*"
+	]
+}

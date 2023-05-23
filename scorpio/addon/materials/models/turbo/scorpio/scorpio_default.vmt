@@ -1,0 +1,12 @@
+"VertexLitGeneric"
+{
+	$basetexture models\turbo\scorpio\scorpio_default
+	$bumpmap models\turbo\scorpio\scorpio_default_n
+
+	$selfillum 1
+
+	$phong 1
+	$phongexponent 10
+	$phongboost 4
+	$phongfresnelranges "[0.05 0.5 1]"
+}

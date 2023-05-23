@@ -1,0 +1,11 @@
+{
+	"title"		:	"Talsa-ko SWTOR",
+	"type"		:	"model",
+	"tags"		:	[ "roleplay", "fun" ],
+	"ignore"	:
+	[
+		"*.psd",
+		"*.vcproj",
+		"*.svn*"
+	]
+}
